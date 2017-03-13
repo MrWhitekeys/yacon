@@ -1,0 +1,18 @@
+h1{color:#0174DF; font-size: 24px;font-family:Verdana, sans-serif; }
+h2{color:#0174DF;font-size: 20px; font-family:Verdana, sans-serif;}
+h3{color:#0080FF; font-size: 16px; font-family:Verdana, sans-serif;}
+h4{color:#0080FF; font-size: 14px; font-family:Verdana, sans-serif;}
+h5{color:#0080FF; font-size: 12px; font-family:Verdana, sans-serif;}
+
+body {background-image: url("WinterBackground1.png"); color: #00BFFF}
+ol{color:#0174DF;}
+
+a {text-decoration: none; font-weight: bold;}
+a:link {color: #0080FF}
+a:visited {color: #00BFFF}
+a:hover {text-decoration: underline}
+
+table {background-color:#FFFFFF;}
+
+
+

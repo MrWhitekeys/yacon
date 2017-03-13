@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Yacon Village Community Center</title>
+<link rel="stylesheet" type="text/css" href="YaconVillageCommunityStylesWinter2017.css" />
+<meta name="keywords" content=" Education, children, math, mathematics, garden, gardening, self-reliance, Family, home education, homeschooling, home teaching, teen, leadership, computers, book reviews"/>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93635200-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
